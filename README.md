@@ -21,3 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-ezzar&show_icons=true&theme=dark&locale=en" alt="yassine-ezzar" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-ezzar&theme=dark" alt="yassine-ezzar" /></p>
+
