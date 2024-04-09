@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassine Ezzar</h1>
 <h3 align="center">A Software Engineer(Mobile + Web)</h3>
+<img align="center" alt="coding" width"350" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/150372949/original/0ba447db58cd0771412f9e6347e1b18042164432/do-ios-and-android-app-development-as-mobile-app-developer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-ezzar&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-ezzar" /> </p>
 
